@@ -1,10 +1,7 @@
 # Tracking-Earths-Temperature-Drivers-from-Natural-Variability-to-Anthropogenic-Dominance-using-SQL
-Tracking Earths Temperature Drivers
 
 
-
-
-
+The project analyzes global temperature anomalies from 1983 to 200 and evaluates how greenhouse gases (CO2, CH4, N2O) and natural drivers (solar irradiance and ENSO patterns) influence climate warming. 
 
 
 ## Data source
