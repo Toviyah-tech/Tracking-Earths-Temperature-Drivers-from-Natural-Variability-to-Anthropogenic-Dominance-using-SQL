@@ -5,13 +5,7 @@ The project analyzes global temperature anomalies from 1983 to 200 and evaluates
 
 
 ## Data source
-The data is sourced from [Kaggle](https://www.kaggle.com/datasets/econdata/climate-change). it contains 
-
-
-
-
-
-
+The data is sourced from [Kaggle](https://www.kaggle.com/datasets/econdata/climate-change). The climate_change data.xlsx dataset contains monthly observational measurements of global climate metrics from 1983 to 2008.
 
 
 ## preview
