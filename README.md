@@ -7,6 +7,11 @@ The project analyzes global temperature anomalies from 1983 to 200 and evaluates
 ## Data source
 The data is sourced from [Kaggle](https://www.kaggle.com/datasets/econdata/climate-change). The climate_change data.xlsx dataset contains monthly observational measurements of global climate metrics from 1983 to 2008.
 
+## Tools Used
+- **Language:** SQL (DuckDB dialect)
+- **Environment:** Deepnote (cloud-based collaborative notebook)
+- **Tools Used:** DuckDB SQL engine, Deepnote interactive chart builder, and Excel (.xlsx) data
+- **Focus:** Time-series decomposition (12-month moving averages) to isolate baseline global warming trends from seasonal noise and determine whether thermal shifts are driven by human activity ($CO_2$, $CH_4$, $N_2O$, $CFCs$) or natural cycles ($TSI$, $MEI$)
 
 ## preview
 - Results in SQL
